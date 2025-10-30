@@ -1,0 +1,22 @@
+{
+  "name": "api-gchat",
+  "version": "1.0.0",
+  "description": "API PARA TRABALHO DA FIAP GCHAT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gburis",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "express": "^5.1.0",
+    "google-auth-library": "^10.4.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.1",
+    "morgan": "^1.10.1"
+  }
+}
