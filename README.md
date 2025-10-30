@@ -4,7 +4,6 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="img" src="https://img.shields.io/badge/React-0d0f1c?style=for-the-badge&logo=react&logoColor=9feaf9">
   <img align="center" alt="img" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img align="center" alt="img" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div><br>
@@ -21,4 +20,5 @@ npm install
 ```sh
 node server
 ```
+
 ##### Obs: Terminais diferentes
